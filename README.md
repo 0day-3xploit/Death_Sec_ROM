@@ -97,8 +97,8 @@ Flashing Time
 6. Reboot
 7. Done!
 
-Downloads And Requirements
-**************************
+# Downloads And Requirements
+
 
 ● Nexus Device       : [Nexus 5   ](https://www.google.com/search?q=BUY+GOOGLE+NEXUS+5)
 ---------------------------------------------------------------------------------------
@@ -111,3 +111,4 @@ Downloads And Requirements
 ● Bluetooth Dongle   : [Adapter   ](https://www.google.com/search?q=best+bluetooth+dongle&client=opera-gx&hs=oh1&ei=ByOEYMLVAcKG4-EP2J2DsAI&oq=best+bluetooth+dongle&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgcIABBHELADOgUIABCRAjoQCC4QsQMQgwEQxwEQowIQQzoHCAAQyQMQQzoFCAAQsQNQ294EWOGABWDlgQVoAXACeACAAYUGiAG5OJIBBzQtNC44LjGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiC9ef7g5fwAhVCwzgGHdjOACYQ4dUDCA0&uact=5)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ● OTG Cable
+-----------
