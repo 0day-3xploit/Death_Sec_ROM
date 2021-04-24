@@ -110,5 +110,5 @@ Flashing Time
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ● Bluetooth Dongle   : [Adapter   ](https://www.google.com/search?q=best+bluetooth+dongle&client=opera-gx&hs=oh1&ei=ByOEYMLVAcKG4-EP2J2DsAI&oq=best+bluetooth+dongle&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgcIABBHELADOgUIABCRAjoQCC4QsQMQgwEQxwEQowIQQzoHCAAQyQMQQzoFCAAQsQNQ294EWOGABWDlgQVoAXACeACAAYUGiAG5OJIBBzQtNC44LjGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiC9ef7g5fwAhVCwzgGHdjOACYQ4dUDCA0&uact=5)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-● OTG Cable
+● OTG Cable          : [OTG Cable ](https://www.google.com/search?q=otg+cable&client=opera-gx&hs=Bj1&ei=XCOEYMjFHf-W4-EPj5aBgAY&oq=otg+cable&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEJECMggIABCxAxCRAjIHCAAQyQMQQzIECAAQQzICCAAyAggAMgIIADICCAAyAggAMgIIADoHCAAQRxCwAzoHCAAQsAMQQzoICC4QxwEQowI6BQgAELEDOggIABCxAxCDAToHCAAQsQMQQzoFCC4QsQM6CAguELEDEIMBUPi9EFi_3BBg9d4QaAJwAngDgAH7B4gBwUKSAQU2LTkuMZgBAKABAaoBB2d3cy13aXqwAQDIAQrAAQE&sclient=gws-wiz&ved=0ahUKEwjI48ekhJfwAhV_yzgGHQ9LAGAQ4dUDCA0&uact=5)  
 -----------
