@@ -96,8 +96,10 @@ Flashing Time
 5. Then wait for the flashing process to be finish
 6. Reboot
 7. Done!
+
 Downloads And Requirements
---------------------------
+**************************
+
 ● Nexus Device       : [Nexus 5   ](https://www.google.com/search?q=BUY+GOOGLE+NEXUS+5)
 ---------------------------------------------------------------------------------------
 ● A Linux Distro     : [Kali Linux](https://www.kali.org/downloads)
