@@ -1,5 +1,4 @@
 # Death_Sec_ROM
-● Pwn Phone's Rom : [Nexus 5](https://drive.google.com/open?id=1FH7QOZwE6H9lgyUAKixtPvd9WKqImE9w)
 The Death Security ROM Is Build For  Mobile Pentesting.
 
 Pentesting Tools
@@ -97,3 +96,11 @@ Flashing Time
 5. Then wait for the flashing process to be finish
 6. Reboot
 7. Done!
+Downloads And Requirements
+--------------------------
+● Nexus Device       : [Nexus 5   ](https://www.google.com/search?q=BUY+GOOGLE+NEXUS+5)
+● A Linux Distro     : [Kali Linux](https://www.kali.org/downloads)
+● Death Security ROM : [ROM       ](
+● WiFi Adapter       : [Adapter   ](https://www.google.com/search?client=opera-gx&q=best+wifi+hacking+adapter&sourceid=opera&ie=UTF-8&oe=UTF-8)
+● Bluetooth Dongle   : [Adapter   ](https://www.google.com/search?q=best+bluetooth+dongle&client=opera-gx&hs=oh1&ei=ByOEYMLVAcKG4-EP2J2DsAI&oq=best+bluetooth+dongle&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgcIABBHELADOgUIABCRAjoQCC4QsQMQgwEQxwEQowIQQzoHCAAQyQMQQzoFCAAQsQNQ294EWOGABWDlgQVoAXACeACAAYUGiAG5OJIBBzQtNC44LjGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiC9ef7g5fwAhVCwzgGHdjOACYQ4dUDCA0&uact=5)
+● OTG Cable
