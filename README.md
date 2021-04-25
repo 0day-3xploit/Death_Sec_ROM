@@ -1,4 +1,4 @@
-# Death_Sec_ROM
+# Death_Security_ROM
 # © All Rights Reserved To 0day-3xploit (Chin Yi Zhe) 2021
 The Death Security ROM Is Build For  Mobile Pentesting.
 
