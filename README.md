@@ -1,4 +1,6 @@
 # Death_Security_ROM
+DEATH SECURITY ROM IS ONLY USE TO ILLUSTRATE CYBER SECURITY ATTACKS BE SMART NOT EVIL
+---------
 # © All Rights Reserved To 0day-3xploit (Chin Yi Zhe) 2021
 The Death Security ROM Is Build For  Mobile Pentesting.
 
